@@ -1,25 +1,12 @@
 {
   "_metadata": {
-    "last_updated": "2025-10-24T13:59:15.776Z",
-    "total_files": 1,
+    "last_updated": "2025-10-24T13:59:20.673Z",
+    "total_files": 0,
     "version": "2.0"
   },
-  "_files": {
-    "164242418.json": {
-      "key": "Primary3",
-      "object_type": "PRIMARY"
-    }
-  },
+  "_files": {},
   "_search": {
-    "by_key": {
-      "Primary3": [
-        "164242418.json"
-      ]
-    },
-    "by_type": {
-      "PRIMARY": [
-        "164242418.json"
-      ]
-    }
+    "by_key": {},
+    "by_type": {}
   }
 }
